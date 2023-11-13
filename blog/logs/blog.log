@@ -1,0 +1,30 @@
+INFO 2023-11-13 17:07:44,758 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-11-13 17:07:46,245 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-11-13 17:08:12,553 basehttp 212 "GET / HTTP/1.1" 200 4
+INFO 2023-11-13 17:29:59,449 autoreload 266 E:\study\git¿â\blog\blog\blog\urls.py changed, reloading.
+INFO 2023-11-13 17:30:00,033 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-11-13 17:31:17,453 autoreload 266 E:\study\git¿â\blog\blog\blog\urls.py changed, reloading.
+INFO 2023-11-13 17:31:17,928 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-11-13 17:31:27,269 autoreload 266 E:\study\git¿â\blog\blog\blog\urls.py changed, reloading.
+INFO 2023-11-13 17:31:27,783 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-11-13 17:31:32,054 autoreload 266 E:\study\git¿â\blog\blog\blog\urls.py changed, reloading.
+INFO 2023-11-13 17:31:32,561 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-11-13 17:31:33,787 autoreload 266 E:\study\git¿â\blog\blog\blog\urls.py changed, reloading.
+INFO 2023-11-13 17:31:34,305 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-11-13 17:31:53,821 autoreload 266 E:\study\git¿â\blog\blog\blog\urls.py changed, reloading.
+INFO 2023-11-13 17:31:54,338 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-11-13 17:32:04,696 autoreload 266 E:\study\git¿â\blog\blog\blog\urls.py changed, reloading.
+INFO 2023-11-13 17:32:05,160 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-11-13 17:32:09,429 autoreload 266 E:\study\git¿â\blog\blog\blog\urls.py changed, reloading.
+INFO 2023-11-13 17:32:09,930 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-11-13 17:32:15,215 autoreload 266 E:\study\git¿â\blog\blog\blog\urls.py changed, reloading.
+INFO 2023-11-13 17:32:15,697 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-11-13 17:32:24,023 autoreload 266 E:\study\git¿â\blog\blog\blog\urls.py changed, reloading.
+INFO 2023-11-13 17:32:24,526 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-11-13 17:32:56,648 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-11-13 17:33:01,270 urls 28 info
+INFO 2023-11-13 17:33:01,270 basehttp 212 "GET / HTTP/1.1" 200 4
+INFO 2023-11-13 17:33:24,345 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-11-13 17:33:30,114 urls 28 info
+INFO 2023-11-13 17:33:30,115 basehttp 212 "GET / HTTP/1.1" 200 4
+INFO 2023-11-13 17:40:12,779 autoreload 668 Watching for file changes with StatReloader
