@@ -16,20 +16,24 @@ Including another URLconf
 """
 
 from django.contrib import admin
-from django.urls import path
+from django.urls import path, include
 from django.http import HttpResponse
 # 1、导入系统的logging模块
-import logging
+# import logging
 
 # 2、创建（获取）日志器
-logger = logging.getLogger('django')
-
-def log(request):
-    # 3、使用日志器记录信息
-    logger.info('info')
-    return HttpResponse('test')
+# logger = logging.getLogger('django')
+#
+# def log(request):
+#     # 3、使用日志器记录信息
+#     logger.info('info')
+#     return HttpResponse('test')
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('', log),
+    # include的参数中首先要设置一个元组  urlconf_module, app_name
+    # urlconf_module    子应用的路由
+    # app_name          子应用的名字
+    # namespace         命名空间。可以很好的防止因为不同子应用间的路由名导致的冲突。
+    path('', include(('users.urls', 'users'), namespace='home')),        # 用include将users的urls导入过来
 ]

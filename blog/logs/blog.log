@@ -28,3 +28,915 @@ INFO 2023-11-13 17:33:24,345 autoreload 668 Watching for file changes with StatR
 INFO 2023-11-13 17:33:30,114 urls 28 info
 INFO 2023-11-13 17:33:30,115 basehttp 212 "GET / HTTP/1.1" 200 4
 INFO 2023-11-13 17:40:12,779 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-11-13 18:06:38,426 autoreload 266 E:\study\git¿â\blog\blog\blog\settings.py changed, reloading.
+INFO 2023-11-13 18:06:38,918 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-11-13 18:07:00,474 autoreload 266 E:\study\git¿â\blog\blog\blog\settings.py changed, reloading.
+INFO 2023-11-13 18:09:56,274 autoreload 668 Watching for file changes with StatReloader
+WARNING 2023-11-13 18:10:12,946 basehttp 212 "GET /static/index.html HTTP/1.1" 404 1789
+INFO 2023-11-13 18:38:04,708 autoreload 668 Watching for file changes with StatReloader
+WARNING 2023-11-13 18:38:11,213 log 241 Not Found: /static
+WARNING 2023-11-13 18:38:11,214 basehttp 212 "GET /static HTTP/1.1" 404 2193
+INFO 2023-11-13 18:38:19,353 basehttp 212 "GET /admin HTTP/1.1" 301 0
+INFO 2023-11-13 18:38:19,366 basehttp 212 "GET /admin/ HTTP/1.1" 302 0
+INFO 2023-11-13 18:38:19,392 basehttp 212 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4181
+INFO 2023-11-13 18:38:19,434 basehttp 212 "GET /static/admin/css/base.css HTTP/1.1" 200 21207
+INFO 2023-11-13 18:38:19,436 basehttp 212 "GET /static/admin/css/dark_mode.css HTTP/1.1" 200 2929
+INFO 2023-11-13 18:38:19,437 basehttp 212 "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2694
+INFO 2023-11-13 18:38:19,438 basehttp 212 "GET /static/admin/css/login.css HTTP/1.1" 200 958
+INFO 2023-11-13 18:38:19,438 basehttp 212 "GET /static/admin/css/responsive.css HTTP/1.1" 200 18533
+INFO 2023-11-13 18:38:19,449 basehttp 212 "GET /static/admin/js/theme.js HTTP/1.1" 200 1943
+INFO 2023-11-13 18:38:19,450 basehttp 212 "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+WARNING 2023-11-13 18:39:27,402 log 241 Not Found: /index/
+WARNING 2023-11-13 18:39:27,403 basehttp 212 "GET /index/ HTTP/1.1" 404 2193
+INFO 2023-11-13 18:39:47,698 basehttp 212 "GET /admin/ HTTP/1.1" 302 0
+INFO 2023-11-13 18:39:47,708 basehttp 212 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4181
+INFO 2023-11-13 18:39:58,799 urls 29 info
+INFO 2023-11-13 18:39:58,799 basehttp 212 "GET / HTTP/1.1" 200 4
+WARNING 2023-11-13 18:40:09,199 log 241 Not Found: /index.html
+WARNING 2023-11-13 18:40:09,200 basehttp 212 "GET /index.html HTTP/1.1" 404 2205
+WARNING 2023-11-13 18:40:55,301 log 241 Not Found: /login
+WARNING 2023-11-13 18:40:55,301 basehttp 212 "GET /login HTTP/1.1" 404 2190
+INFO 2023-11-13 18:41:00,274 basehttp 212 "GET /admin/ HTTP/1.1" 302 0
+INFO 2023-11-13 18:41:00,284 basehttp 212 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4181
+WARNING 2023-11-13 18:42:11,434 basehttp 212 "GET /static/index.html HTTP/1.1" 404 1789
+INFO 2023-11-13 18:43:47,596 basehttp 212 "GET /static/prism/index.html HTTP/1.1" 200 6213
+WARNING 2023-11-13 18:43:47,680 basehttp 212 "GET /static/prism/%7B%%20static%20'bootstrap/css/bootstrap.min.css'%20%%7D HTTP/1.1" 404 1959
+WARNING 2023-11-13 18:43:47,680 basehttp 212 "GET /static/prism/%7B%%20static%20'md_css/monokai.css'%20%%7D HTTP/1.1" 404 1920
+WARNING 2023-11-13 18:43:47,683 basehttp 212 "GET /static/prism/%7B%%20static%20'common/jquery.pagination.css'%20%%7D HTTP/1.1" 404 1950
+WARNING 2023-11-13 18:43:47,683 basehttp 212 "GET /static/prism/%7B%%20static%20'common/common.css'%20%%7D HTTP/1.1" 404 1917
+WARNING 2023-11-13 18:43:47,683 basehttp 212 "GET /static/prism/%7B%%20static%20'js/vue-2.5.16.js'%20%%7D HTTP/1.1" 404 1914
+WARNING 2023-11-13 18:43:47,686 basehttp 212 "GET /static/prism/%7B%%20static%20'js/axios-0.18.0.min.js'%20%%7D HTTP/1.1" 404 1932
+WARNING 2023-11-13 18:43:47,701 basehttp 212 "GET /static/prism/%7B%%20static%20'js/jquery-1.12.4.min.js'%20%%7D HTTP/1.1" 404 1935
+WARNING 2023-11-13 18:43:47,705 basehttp 212 "GET /static/prism/%7B%%20static%20'js/host.js'%20%%7D HTTP/1.1" 404 1896
+WARNING 2023-11-13 18:43:47,707 basehttp 212 "GET /static/prism/%7B%%20static%20'js/common.js'%20%%7D HTTP/1.1" 404 1902
+WARNING 2023-11-13 18:43:47,707 basehttp 212 "GET /static/prism/%7B%%20static%20'js/index.js'%20%%7D HTTP/1.1" 404 1899
+WARNING 2023-11-13 18:43:47,707 basehttp 212 "GET /static/prism/%7B%%20static%20'js/jquery.pagination.min.js'%20%%7D HTTP/1.1" 404 1947
+WARNING 2023-11-13 18:43:47,708 basehttp 212 "GET /static/prism/%7B%7B%20article.avatar.url%20%7D%7D HTTP/1.1" 404 1861
+INFO 2023-11-14 17:40:46,865 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-11-14 17:40:57,672 urls 29 info
+INFO 2023-11-14 17:40:57,674 basehttp 212 "GET / HTTP/1.1" 200 4
+WARNING 2023-11-14 17:41:04,396 log 241 Not Found: /static
+WARNING 2023-11-14 17:41:04,397 basehttp 212 "GET /static HTTP/1.1" 404 2193
+INFO 2023-11-14 17:41:22,915 basehttp 212 "GET /static/prism/index.html HTTP/1.1" 200 6213
+WARNING 2023-11-14 17:41:22,996 basehttp 212 "GET /static/prism/%7B%%20static%20'bootstrap/css/bootstrap.min.css'%20%%7D HTTP/1.1" 404 1959
+WARNING 2023-11-14 17:41:23,007 basehttp 212 "GET /static/prism/%7B%%20static%20'md_css/monokai.css'%20%%7D HTTP/1.1" 404 1920
+WARNING 2023-11-14 17:41:23,008 basehttp 212 "GET /static/prism/%7B%%20static%20'common/common.css'%20%%7D HTTP/1.1" 404 1917
+WARNING 2023-11-14 17:41:23,010 basehttp 212 "GET /static/prism/%7B%%20static%20'common/jquery.pagination.css'%20%%7D HTTP/1.1" 404 1950
+WARNING 2023-11-14 17:41:23,011 basehttp 212 "GET /static/prism/%7B%%20static%20'js/vue-2.5.16.js'%20%%7D HTTP/1.1" 404 1914
+WARNING 2023-11-14 17:41:23,013 basehttp 212 "GET /static/prism/%7B%%20static%20'js/axios-0.18.0.min.js'%20%%7D HTTP/1.1" 404 1932
+WARNING 2023-11-14 17:41:23,017 basehttp 212 "GET /static/prism/%7B%%20static%20'js/jquery-1.12.4.min.js'%20%%7D HTTP/1.1" 404 1935
+WARNING 2023-11-14 17:41:23,030 basehttp 212 "GET /static/prism/%7B%%20static%20'js/host.js'%20%%7D HTTP/1.1" 404 1896
+WARNING 2023-11-14 17:41:23,031 basehttp 212 "GET /static/prism/%7B%%20static%20'js/common.js'%20%%7D HTTP/1.1" 404 1902
+WARNING 2023-11-14 17:41:23,032 basehttp 212 "GET /static/prism/%7B%%20static%20'js/index.js'%20%%7D HTTP/1.1" 404 1899
+WARNING 2023-11-14 17:41:23,032 basehttp 212 "GET /static/prism/%7B%%20static%20'js/jquery.pagination.min.js'%20%%7D HTTP/1.1" 404 1947
+WARNING 2023-11-14 17:41:23,033 basehttp 212 "GET /static/prism/%7B%7B%20article.avatar.url%20%7D%7D HTTP/1.1" 404 1861
+INFO 2023-11-14 17:47:39,949 basehttp 212 "GET /static/js/index.js HTTP/1.1" 200 590
+INFO 2023-11-14 17:47:47,153 basehttp 212 "GET /admin/ HTTP/1.1" 302 0
+INFO 2023-11-14 17:47:47,182 basehttp 212 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4181
+INFO 2023-11-14 17:47:47,227 basehttp 212 "GET /static/admin/css/base.css HTTP/1.1" 304 0
+INFO 2023-11-14 17:47:47,228 basehttp 212 "GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+INFO 2023-11-14 17:47:47,229 basehttp 212 "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+INFO 2023-11-14 17:47:47,230 basehttp 212 "GET /static/admin/css/login.css HTTP/1.1" 304 0
+INFO 2023-11-14 17:47:47,231 basehttp 212 "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+INFO 2023-11-14 17:47:47,242 basehttp 212 "GET /static/admin/js/theme.js HTTP/1.1" 304 0
+INFO 2023-11-14 17:47:47,242 basehttp 212 "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+WARNING 2023-11-14 18:01:33,233 log 241 Not Found: /register
+WARNING 2023-11-14 18:01:33,233 basehttp 212 "GET /register HTTP/1.1" 404 2199
+INFO 2023-11-14 18:01:37,881 urls 29 info
+INFO 2023-11-14 18:01:37,881 basehttp 212 "GET / HTTP/1.1" 200 4
+WARNING 2023-11-14 18:01:44,777 basehttp 212 "GET /static/prism/%7B%%20static%20'bootstrap/css/bootstrap.min.css'%20%%7D HTTP/1.1" 404 1959
+WARNING 2023-11-14 18:01:44,777 basehttp 212 "GET /static/prism/%7B%%20static%20'md_css/monokai.css'%20%%7D HTTP/1.1" 404 1920
+WARNING 2023-11-14 18:01:44,779 basehttp 212 "GET /static/prism/%7B%%20static%20'common/jquery.pagination.css'%20%%7D HTTP/1.1" 404 1950
+WARNING 2023-11-14 18:01:44,779 basehttp 212 "GET /static/prism/%7B%%20static%20'common/common.css'%20%%7D HTTP/1.1" 404 1917
+WARNING 2023-11-14 18:01:44,780 basehttp 212 "GET /static/prism/%7B%%20static%20'js/vue-2.5.16.js'%20%%7D HTTP/1.1" 404 1914
+WARNING 2023-11-14 18:01:44,781 basehttp 212 "GET /static/prism/%7B%%20static%20'js/axios-0.18.0.min.js'%20%%7D HTTP/1.1" 404 1932
+WARNING 2023-11-14 18:01:44,792 basehttp 212 "GET /static/prism/%7B%%20static%20'js/jquery-1.12.4.min.js'%20%%7D HTTP/1.1" 404 1935
+WARNING 2023-11-14 18:01:44,806 basehttp 212 "GET /static/prism/%7B%%20static%20'js/host.js'%20%%7D HTTP/1.1" 404 1896
+WARNING 2023-11-14 18:01:44,806 basehttp 212 "GET /static/prism/%7B%%20static%20'js/common.js'%20%%7D HTTP/1.1" 404 1902
+WARNING 2023-11-14 18:01:44,808 basehttp 212 "GET /static/prism/%7B%%20static%20'js/jquery.pagination.min.js'%20%%7D HTTP/1.1" 404 1947
+WARNING 2023-11-14 18:01:44,809 basehttp 212 "GET /static/prism/%7B%7B%20article.avatar.url%20%7D%7D HTTP/1.1" 404 1861
+WARNING 2023-11-14 18:01:44,809 basehttp 212 "GET /static/prism/%7B%%20static%20'js/index.js'%20%%7D HTTP/1.1" 404 1899
+WARNING 2023-11-14 18:01:51,638 basehttp 212 "GET /static/prism/regester.html HTTP/1.1" 404 1816
+INFO 2023-11-14 18:02:41,596 basehttp 212 "GET /static/prism/register.html HTTP/1.1" 200 5533
+WARNING 2023-11-14 18:02:41,646 basehttp 212 "GET /static/prism/%7B%%20static%20'js/vue-2.5.16.js'%20%%7D HTTP/1.1" 404 1914
+WARNING 2023-11-14 18:02:41,646 basehttp 212 "GET /static/prism/%7B%%20static%20'bootstrap/css/bootstrap.min.css'%20%%7D HTTP/1.1" 404 1959
+WARNING 2023-11-14 18:02:41,646 basehttp 212 "GET /static/prism/%7B%%20static%20'js/axios-0.18.0.min.js'%20%%7D HTTP/1.1" 404 1932
+WARNING 2023-11-14 18:02:41,673 basehttp 212 "GET /static/prism/%7B%%20static%20'js/host.js'%20%%7D HTTP/1.1" 404 1896
+WARNING 2023-11-14 18:02:41,675 basehttp 212 "GET /static/prism/%7B%%20static%20'js/common.js'%20%%7D HTTP/1.1" 404 1902
+WARNING 2023-11-14 18:02:41,676 basehttp 212 "GET /static/prism/%7B%%20static%20'js/register.js'%20%%7D HTTP/1.1" 404 1908
+WARNING 2023-11-14 18:02:41,677 basehttp 212 "GET /static/prism/%7B%%20static%20'img/image_code.png'%20%%7D HTTP/1.1" 404 1920
+INFO 2023-11-14 18:06:11,688 autoreload 266 E:\study\git¿â\blog\blog\blog\settings.py changed, reloading.
+INFO 2023-11-14 18:06:12,170 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-11-14 18:06:21,537 autoreload 266 E:\study\git¿â\blog\blog\blog\settings.py changed, reloading.
+INFO 2023-11-14 18:06:22,016 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-11-14 18:06:46,616 autoreload 266 E:\study\git¿â\blog\blog\blog\settings.py changed, reloading.
+INFO 2023-11-14 18:06:47,069 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-11-14 18:06:52,308 autoreload 266 E:\study\git¿â\blog\blog\blog\settings.py changed, reloading.
+INFO 2023-11-14 18:06:52,850 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-11-14 18:07:53,034 autoreload 266 E:\study\git¿â\blog\blog\blog\settings.py changed, reloading.
+INFO 2023-11-14 18:07:53,514 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-11-14 23:11:50,703 autoreload 266 E:\study\git¿â\blog\blog\blog\urls.py changed, reloading.
+INFO 2023-11-14 23:11:51,329 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-11-14 23:12:18,788 autoreload 266 E:\study\git¿â\blog\blog\blog\urls.py changed, reloading.
+INFO 2023-11-14 23:12:19,263 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-11-14 23:12:28,469 autoreload 266 E:\study\git¿â\blog\blog\blog\urls.py changed, reloading.
+INFO 2023-11-14 23:12:28,933 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-11-14 23:12:34,089 autoreload 266 E:\study\git¿â\blog\blog\blog\urls.py changed, reloading.
+INFO 2023-11-14 23:12:34,565 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-11-14 23:12:42,758 autoreload 266 E:\study\git¿â\blog\blog\blog\urls.py changed, reloading.
+INFO 2023-11-14 23:12:43,238 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-11-14 23:13:16,782 autoreload 266 E:\study\git¿â\blog\blog\blog\urls.py changed, reloading.
+INFO 2023-11-14 23:13:17,249 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-11-14 23:14:14,115 autoreload 266 E:\study\git¿â\blog\blog\blog\urls.py changed, reloading.
+INFO 2023-11-14 23:14:14,619 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-11-14 23:14:27,882 autoreload 266 E:\study\git¿â\blog\blog\blog\urls.py changed, reloading.
+INFO 2023-11-14 23:14:28,363 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-11-14 23:14:49,752 autoreload 266 E:\study\git¿â\blog\blog\blog\urls.py changed, reloading.
+INFO 2023-11-14 23:14:50,230 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-11-14 23:14:53,355 autoreload 266 E:\study\git¿â\blog\blog\blog\urls.py changed, reloading.
+INFO 2023-11-14 23:14:53,833 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-11-14 23:15:19,258 autoreload 266 E:\study\git¿â\blog\blog\blog\urls.py changed, reloading.
+INFO 2023-11-14 23:15:19,756 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-11-14 23:15:46,203 autoreload 266 E:\study\git¿â\blog\blog\blog\urls.py changed, reloading.
+INFO 2023-11-14 23:15:46,673 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-11-14 23:16:21,230 autoreload 266 E:\study\git¿â\blog\blog\blog\urls.py changed, reloading.
+INFO 2023-11-14 23:16:21,716 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-11-14 23:16:26,011 autoreload 266 E:\study\git¿â\blog\blog\blog\urls.py changed, reloading.
+INFO 2023-11-14 23:16:26,527 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-11-14 23:16:29,789 autoreload 266 E:\study\git¿â\blog\blog\blog\urls.py changed, reloading.
+INFO 2023-11-14 23:16:30,313 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-11-14 23:16:58,996 autoreload 266 E:\study\git¿â\blog\blog\blog\urls.py changed, reloading.
+INFO 2023-11-14 23:16:59,468 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-11-14 23:17:09,696 autoreload 266 E:\study\git¿â\blog\blog\blog\urls.py changed, reloading.
+INFO 2023-11-14 23:17:10,163 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-11-14 23:17:17,347 autoreload 266 E:\study\git¿â\blog\blog\blog\urls.py changed, reloading.
+INFO 2023-11-14 23:17:17,813 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-11-14 23:17:34,112 autoreload 266 E:\study\git¿â\blog\blog\blog\urls.py changed, reloading.
+INFO 2023-11-14 23:17:34,578 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-11-14 23:17:48,853 autoreload 266 E:\study\git¿â\blog\blog\blog\urls.py changed, reloading.
+INFO 2023-11-14 23:17:49,318 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-11-14 23:17:53,462 autoreload 266 E:\study\git¿â\blog\blog\blog\urls.py changed, reloading.
+INFO 2023-11-14 23:17:53,992 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-11-14 23:18:12,315 autoreload 266 E:\study\git¿â\blog\blog\blog\urls.py changed, reloading.
+INFO 2023-11-14 23:18:12,801 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-11-14 23:19:36,019 autoreload 266 E:\study\git¿â\blog\blog\blog\urls.py changed, reloading.
+INFO 2023-11-14 23:19:36,493 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-11-14 23:21:30,647 autoreload 266 E:\study\git¿â\blog\blog\users\urls.py changed, reloading.
+INFO 2023-11-14 23:21:31,152 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-11-14 23:22:31,388 autoreload 266 E:\study\git¿â\blog\blog\blog\urls.py changed, reloading.
+INFO 2023-11-14 23:22:31,888 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-11-14 23:23:53,471 autoreload 266 E:\study\git¿â\blog\blog\blog\urls.py changed, reloading.
+INFO 2023-11-14 23:23:53,947 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-11-14 23:24:11,982 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-11-14 23:24:37,552 basehttp 212 "GET /register HTTP/1.1" 301 0
+ERROR 2023-11-14 23:24:37,599 log 241 Internal Server Error: /register/
+Traceback (most recent call last):
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\defaulttags.py", line 1026, in find_library
+    return parser.libraries[name]
+KeyError: 'staticfiles'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+  File "E:\study\git¿â\blog\blog\users\views.py", line 10, in get
+    return render(request, 'register.html')
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\backends\django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\engine.py", line 175, in get_template
+    template, origin = self.find_template(template_name)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\defaulttags.py", line 1088, in load
+    lib = find_library(parser, name)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\defaulttags.py", line 1028, in find_library
+    raise TemplateSyntaxError(
+django.template.exceptions.TemplateSyntaxError: 'staticfiles' is not a registered tag library. Must be one of:
+admin_list
+admin_modify
+admin_urls
+cache
+i18n
+l10n
+log
+static
+tz
+ERROR 2023-11-14 23:24:37,601 basehttp 212 "GET /register/ HTTP/1.1" 500 169340
+INFO 2023-11-14 23:29:14,574 autoreload 668 Watching for file changes with StatReloader
+ERROR 2023-11-14 23:29:18,473 log 241 Internal Server Error: /register/
+Traceback (most recent call last):
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\defaulttags.py", line 1026, in find_library
+    return parser.libraries[name]
+KeyError: 'staticfiles'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+  File "E:\study\git¿â\blog\blog\users\views.py", line 10, in get
+    return render(request, 'register.html')
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\backends\django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\engine.py", line 175, in get_template
+    template, origin = self.find_template(template_name)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\defaulttags.py", line 1088, in load
+    lib = find_library(parser, name)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\defaulttags.py", line 1028, in find_library
+    raise TemplateSyntaxError(
+django.template.exceptions.TemplateSyntaxError: 'staticfiles' is not a registered tag library. Must be one of:
+admin_list
+admin_modify
+admin_urls
+cache
+i18n
+l10n
+log
+static
+tz
+ERROR 2023-11-14 23:29:18,476 basehttp 212 "GET /register/ HTTP/1.1" 500 166495
+INFO 2023-11-14 23:30:46,640 autoreload 668 Watching for file changes with StatReloader
+ERROR 2023-11-14 23:30:49,654 log 241 Internal Server Error: /register/
+Traceback (most recent call last):
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\defaulttags.py", line 1026, in find_library
+    return parser.libraries[name]
+KeyError: 'staticfiles'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+  File "E:\study\git¿â\blog\blog\users\views.py", line 10, in get
+    return render(request, 'register.html')
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\backends\django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\engine.py", line 175, in get_template
+    template, origin = self.find_template(template_name)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\defaulttags.py", line 1088, in load
+    lib = find_library(parser, name)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\defaulttags.py", line 1028, in find_library
+    raise TemplateSyntaxError(
+django.template.exceptions.TemplateSyntaxError: 'staticfiles' is not a registered tag library. Must be one of:
+admin_list
+admin_modify
+admin_urls
+cache
+i18n
+l10n
+log
+static
+tz
+ERROR 2023-11-14 23:30:49,657 basehttp 212 "GET /register/ HTTP/1.1" 500 167386
+INFO 2023-11-14 23:31:06,461 autoreload 668 Watching for file changes with StatReloader
+ERROR 2023-11-14 23:31:08,713 log 241 Internal Server Error: /register/
+Traceback (most recent call last):
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\urls\base.py", line 71, in reverse
+    extra, resolver = resolver.namespace_dict[ns]
+KeyError: 'home'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+  File "E:\study\git¿â\blog\blog\users\views.py", line 10, in get
+    return render(request, 'register.html')
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\defaulttags.py", line 471, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\urls\base.py", line 82, in reverse
+    raise NoReverseMatch("%s is not a registered namespace" % key)
+django.urls.exceptions.NoReverseMatch: 'home' is not a registered namespace
+ERROR 2023-11-14 23:31:08,715 basehttp 212 "GET /register/ HTTP/1.1" 500 129101
+INFO 2023-11-14 23:35:42,626 autoreload 668 Watching for file changes with StatReloader
+ERROR 2023-11-14 23:35:46,499 log 241 Internal Server Error: /register/
+Traceback (most recent call last):
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\defaulttags.py", line 1026, in find_library
+    return parser.libraries[name]
+KeyError: 'staticfiles'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+  File "E:\study\git¿â\blog\blog\users\views.py", line 10, in get
+    return render(request, 'register.html')
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\backends\django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\engine.py", line 175, in get_template
+    template, origin = self.find_template(template_name)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\defaulttags.py", line 1088, in load
+    lib = find_library(parser, name)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\defaulttags.py", line 1028, in find_library
+    raise TemplateSyntaxError(
+django.template.exceptions.TemplateSyntaxError: 'staticfiles' is not a registered tag library. Must be one of:
+admin_list
+admin_modify
+admin_urls
+cache
+i18n
+l10n
+log
+static
+tz
+ERROR 2023-11-14 23:35:46,501 basehttp 212 "GET /register/ HTTP/1.1" 500 169477
+INFO 2023-11-14 23:37:26,949 autoreload 668 Watching for file changes with StatReloader
+ERROR 2023-11-14 23:37:30,162 log 241 Internal Server Error: /register/
+Traceback (most recent call last):
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\defaulttags.py", line 1026, in find_library
+    return parser.libraries[name]
+KeyError: 'staticfiles'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+  File "E:\study\git¿â\blog\blog\users\views.py", line 10, in get
+    return render(request, 'register.html')
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\backends\django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\engine.py", line 175, in get_template
+    template, origin = self.find_template(template_name)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\defaulttags.py", line 1088, in load
+    lib = find_library(parser, name)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\defaulttags.py", line 1028, in find_library
+    raise TemplateSyntaxError(
+django.template.exceptions.TemplateSyntaxError: 'staticfiles' is not a registered tag library. Must be one of:
+admin_list
+admin_modify
+admin_urls
+cache
+i18n
+l10n
+log
+static
+tz
+ERROR 2023-11-14 23:37:30,165 basehttp 212 "GET /register/ HTTP/1.1" 500 170388
+ERROR 2023-11-14 23:37:32,842 log 241 Internal Server Error: /register/
+Traceback (most recent call last):
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\defaulttags.py", line 1026, in find_library
+    return parser.libraries[name]
+KeyError: 'staticfiles'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+  File "E:\study\git¿â\blog\blog\users\views.py", line 10, in get
+    return render(request, 'register.html')
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\backends\django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\engine.py", line 175, in get_template
+    template, origin = self.find_template(template_name)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\defaulttags.py", line 1088, in load
+    lib = find_library(parser, name)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\defaulttags.py", line 1028, in find_library
+    raise TemplateSyntaxError(
+django.template.exceptions.TemplateSyntaxError: 'staticfiles' is not a registered tag library. Must be one of:
+admin_list
+admin_modify
+admin_urls
+cache
+i18n
+l10n
+log
+static
+tz
+ERROR 2023-11-14 23:37:32,843 basehttp 212 "GET /register/ HTTP/1.1" 500 170388
+INFO 2023-11-14 23:37:54,573 autoreload 668 Watching for file changes with StatReloader
+ERROR 2023-11-14 23:37:56,775 log 241 Internal Server Error: /register/
+Traceback (most recent call last):
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\urls\base.py", line 71, in reverse
+    extra, resolver = resolver.namespace_dict[ns]
+KeyError: 'home'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+  File "E:\study\git¿â\blog\blog\users\views.py", line 10, in get
+    return render(request, 'register.html')
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\defaulttags.py", line 471, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\urls\base.py", line 82, in reverse
+    raise NoReverseMatch("%s is not a registered namespace" % key)
+django.urls.exceptions.NoReverseMatch: 'home' is not a registered namespace
+ERROR 2023-11-14 23:37:56,777 basehttp 212 "GET /register/ HTTP/1.1" 500 129655
+INFO 2023-11-14 23:39:28,553 autoreload 266 E:\study\git¿â\blog\blog\blog\urls.py changed, reloading.
+INFO 2023-11-14 23:39:29,083 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-11-14 23:39:30,984 autoreload 668 Watching for file changes with StatReloader
+ERROR 2023-11-14 23:39:33,422 log 241 Internal Server Error: /register/
+Traceback (most recent call last):
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+  File "E:\study\git¿â\blog\blog\users\views.py", line 10, in get
+    return render(request, 'register.html')
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\defaulttags.py", line 471, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'index' not found. 'index' is not a valid view function or pattern name.
+ERROR 2023-11-14 23:39:33,424 basehttp 212 "GET /register/ HTTP/1.1" 500 128311
+ERROR 2023-11-14 23:39:34,736 log 241 Internal Server Error: /register/
+Traceback (most recent call last):
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+  File "E:\study\git¿â\blog\blog\users\views.py", line 10, in get
+    return render(request, 'register.html')
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\defaulttags.py", line 471, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'index' not found. 'index' is not a valid view function or pattern name.
+ERROR 2023-11-14 23:39:34,737 basehttp 212 "GET /register/ HTTP/1.1" 500 128311
+INFO 2023-11-14 23:40:15,819 autoreload 668 Watching for file changes with StatReloader
+ERROR 2023-11-14 23:40:17,560 log 241 Internal Server Error: /register/
+Traceback (most recent call last):
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+  File "E:\study\git¿â\blog\blog\users\views.py", line 10, in get
+    return render(request, 'register.html')
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\defaulttags.py", line 471, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'login' not found. 'login' is not a valid view function or pattern name.
+ERROR 2023-11-14 23:40:17,562 basehttp 212 "GET /register/ HTTP/1.1" 500 128886
+INFO 2023-11-14 23:40:47,976 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-11-14 23:40:48,999 basehttp 212 "GET /register/ HTTP/1.1" 200 5319
+INFO 2023-11-14 23:40:49,037 basehttp 212 "GET /static/js/host.js HTTP/1.1" 200 35
+INFO 2023-11-14 23:40:49,038 basehttp 212 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12949
+INFO 2023-11-14 23:40:49,038 basehttp 212 "GET /static/js/common.js HTTP/1.1" 200 919
+INFO 2023-11-14 23:40:49,039 basehttp 212 "GET /static/js/register.js HTTP/1.1" 200 6523
+INFO 2023-11-14 23:40:49,039 basehttp 212 "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 140942
+INFO 2023-11-14 23:40:49,041 basehttp 212 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 300254
+WARNING 2023-11-14 23:40:49,080 log 241 Not Found: /imagecode/
+WARNING 2023-11-14 23:40:49,080 basehttp 212 "GET /imagecode/?uuid=a6828dee-f2a1-47d5-b529-f45c186020c1 HTTP/1.1" 404 2320
+WARNING 2023-11-14 23:40:54,984 log 241 Not Found: /imagecode/
+WARNING 2023-11-14 23:40:54,985 basehttp 212 "GET /imagecode/?uuid=2afc69e8-8f96-4f8c-a2c2-27be8c82eb0b HTTP/1.1" 404 2320
+ERROR 2023-11-14 23:41:13,126 log 241 Internal Server Error: /register/
+Traceback (most recent call last):
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\defaulttags.py", line 1026, in find_library
+    return parser.libraries[name]
+KeyError: 'staticfiles'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+  File "E:\study\git¿â\blog\blog\users\views.py", line 10, in get
+    return render(request, 'register.html')
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\backends\django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\engine.py", line 175, in get_template
+    template, origin = self.find_template(template_name)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\defaulttags.py", line 1088, in load
+    lib = find_library(parser, name)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\defaulttags.py", line 1028, in find_library
+    raise TemplateSyntaxError(
+django.template.exceptions.TemplateSyntaxError: 'staticfiles' is not a registered tag library. Must be one of:
+admin_list
+admin_modify
+admin_urls
+cache
+i18n
+l10n
+log
+static
+tz
+ERROR 2023-11-14 23:41:13,128 basehttp 212 "GET /register/ HTTP/1.1" 500 169477
+ERROR 2023-11-14 23:47:31,429 log 241 Internal Server Error: /register/
+Traceback (most recent call last):
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+  File "E:\study\git¿â\blog\blog\users\views.py", line 10, in get
+    return render(request, 'register.html')
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\defaulttags.py", line 471, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'index' not found. 'index' is not a valid view function or pattern name.
+ERROR 2023-11-14 23:47:31,430 basehttp 212 "GET /register/ HTTP/1.1" 500 128311
+INFO 2023-11-14 23:47:46,376 autoreload 668 Watching for file changes with StatReloader
+ERROR 2023-11-14 23:47:48,869 log 241 Internal Server Error: /register/
+Traceback (most recent call last):
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\defaulttags.py", line 1026, in find_library
+    return parser.libraries[name]
+KeyError: 'staticfiles'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+  File "E:\study\git¿â\blog\blog\users\views.py", line 10, in get
+    return render(request, 'register.html')
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\backends\django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\engine.py", line 175, in get_template
+    template, origin = self.find_template(template_name)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\defaulttags.py", line 1088, in load
+    lib = find_library(parser, name)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\defaulttags.py", line 1028, in find_library
+    raise TemplateSyntaxError(
+django.template.exceptions.TemplateSyntaxError: 'staticfiles' is not a registered tag library. Must be one of:
+admin_list
+admin_modify
+admin_urls
+cache
+i18n
+l10n
+log
+static
+tz
+ERROR 2023-11-14 23:47:48,871 basehttp 212 "GET /register/ HTTP/1.1" 500 169477
+INFO 2023-11-14 23:54:48,436 autoreload 668 Watching for file changes with StatReloader
+ERROR 2023-11-14 23:54:54,962 log 241 Internal Server Error: /register/
+Traceback (most recent call last):
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+  File "E:\study\git¿â\blog\blog\users\views.py", line 10, in get
+    return render(request, 'register.html')
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\template\defaulttags.py", line 471, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "E:\study\git¿â\blog_env\lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'index' not found. 'index' is not a valid view function or pattern name.
+ERROR 2023-11-14 23:54:54,964 basehttp 212 "GET /register/ HTTP/1.1" 500 128311
+INFO 2023-11-15 00:10:39,771 autoreload 668 Watching for file changes with StatReloader
